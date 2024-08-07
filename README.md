@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me linkedin: www.linkedin.com/in/tomilola-onikosi-975404311 Email: tomilolaonikosi@gmail.com
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: I started my career in tech out of spite for a man & im a bigtime feminist.
+- ⚡ Fun fact: I am also a pharmacy student in the university.
 
 <!---
 tomiinii/tomiinii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
